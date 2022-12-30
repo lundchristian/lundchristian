@@ -1,11 +1,3 @@
-<h1 align="center">Hello World!</h1>
-
-<p>My name is Christian, this is what I do:</p>
-<ul>
-  <li>Software engineering student at Aarhus University</li>
-  <li>Walking my dog</li>
-  <li>Debugging embedded systems</li>
-</ul>
 <h1>Pleased to meet you! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ##### BIO
