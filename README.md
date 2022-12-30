@@ -9,12 +9,12 @@
 <h1>Pleased to meet you! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ##### BIO
-- 🏢 I'm a 'to be' **Software Engineer** studying at [Arhus University](https://international.au.dk/)
-- :earth_africa From **Norway**, but currently living **Denmark**
-- :scroll Learning about **Embedded Software**, **Systems Design**, **Full-Stack** and more
-- :dog Walking my dog
-- :recycle Debugging embedded systems
-- 📫 [Reach me](https://github.com/lundchristian)
+- :satellite: I'm a 'to be' **Software Engineer** studying at [Arhus University](https://international.au.dk/)
+- :earth_africa: From **Norway**, but currently living **Denmark**
+- :scroll: Learning about **Embedded Software**, **Systems Design**, **Full-Stack** and more
+- :dog: Walking my dog
+- :recycle: Debugging embedded systems
+- :calling: [Reach me](https://github.com/lundchristian)
 
 Follow my progress at my [website](https://lundchristian.github.io/).
 
