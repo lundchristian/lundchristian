@@ -8,7 +8,7 @@
 - :recycle: Debugging embedded systems
 - :calling: [Reach me](https://github.com/lundchristian)
 
-Follow my progress at my [website](https://lundchristian.github.io/).
+Follow my progress at my [website](https://lundchristian.github.io/). :smiley:
 
 ##### What i'm talking
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"/>|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
