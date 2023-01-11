@@ -8,14 +8,11 @@
 - :recycle: Debugging embedded systems
 - :calling: [Reach me](https://github.com/lundchristian)
 
-Follow my progress at my [website](https://lundchristian.github.io/). :smiley:
-
-##### What i'm talking
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"/>|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
-
 <!---
 lundchristian/lundchristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+[website](https://lundchristian.github.io/)
 
 - How to push to github
 git add README.md
